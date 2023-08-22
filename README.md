@@ -20,3 +20,7 @@ my_library/
 ├── LICENSE
 └── .gitignore
 
+
+- Julia course
+- CS168
+- Data Science foundations
