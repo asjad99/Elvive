@@ -7,3 +7,16 @@ Today, there is a fundamental shift towards a wide range of applications. Numero
 
 This repository aims to explore enduring concepts and ideas that have withstood the test of time. We investigate intriguing and relatively straightforward notions that form the foundation for creating data products. We will explore mathematically rigorous definitions for some of the central problems, ideas, and algorithms for building data products. The toolbox overall, can be used for data analysis using mathematical and computational techniques. It builds upon techniques for statistical analysis, machine learning algorithms, and complex modeling. It's applied to gain insights, make predictions, or extract patterns from data.
 
+my_library/
+├── src/
+│   └── my_library/
+│       ├── __init__.py
+│       ├── module1.py
+│       └── module2.py
+├── tests/
+├── docs/
+├── setup.py
+├── README.md
+├── LICENSE
+└── .gitignore
+
